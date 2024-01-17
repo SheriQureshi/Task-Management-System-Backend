@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "bcappa_dev_admin",
+    "password": "e9MlIfbyYeoHnNDiXnzA",
+    "database": "taska-sheraz",
+    "host": "bcappa-dev.cwunv2qtvlsh.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "bcappa_dev_admin",
+    "password": "e9MlIfbyYeoHnNDiXnzA",
+    "database": "taska-sheraz",
+    "host": "bcappa-dev.cwunv2qtvlsh.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "bcappa_dev_admin",
+    "password": "e9MlIfbyYeoHnNDiXnzA",
+    "database": "taska-sheraz",
+    "host": "bcappa-dev.cwunv2qtvlsh.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
